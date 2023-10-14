@@ -11,7 +11,8 @@ The GCR program consists of total 3 tracks:
 ✅ Track 2: Cloud-native Application Development Track
 ✅ Track 3: Big Data & Machine Learning Track
 
-My Qwiklab profile:- https://lnkd.in/d-RSimp
+My Qwiklab profile:- https://www.cloudskillsboost.google/public_profiles/9c9a95e7-7693-472a-8cd2-0f64abac144a
+
 
 Learning Modules -
 ![1st](https://user-images.githubusercontent.com/67793499/223907653-37c7f422-dcfe-4d94-b263-581d31e16ac6.png)
